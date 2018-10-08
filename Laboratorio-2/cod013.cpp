@@ -18,10 +18,6 @@ int main()
 				cout<<a<<" y "<<b<<" son casi iguales"<<"\n";
 			}
 		}
-		if(a==b)
-		{
-			cout<<"son iguales \n";
-		}
 		else if(b>a)
 		{
 			cout<<"El menor valor es: "<<a<<"\n";
